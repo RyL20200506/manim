@@ -9,3 +9,4 @@ def main():
     config = manimlib.config.get_configuration(args)
     manimlib.constants.initialize_directories(config)
     manimlib.extract_scene.main(config)
+

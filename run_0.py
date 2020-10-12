@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 #!/usr/bin/env python
+# 简陋的演示如何求解一个积分
 
 from manimlib.imports import *
 
